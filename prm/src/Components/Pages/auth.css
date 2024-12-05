@@ -1,0 +1,81 @@
+.sign-in-page {
+  background-image: url(../../assets/bg-sign-in.png);
+  width: 100%;
+  height: fit-content;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+.sign-in-form {
+  padding-left: 40%;
+  padding-top: 15%;
+  padding-right: 40%;
+  padding-bottom: 15%;
+}
+.sign-in-form-input {
+  width: 90%;
+  height: 2.8125rem;
+  flex-shrink: 0;
+  border-radius: 0.25rem;
+  border: none;
+  display: flex;
+  background-color: transparent;
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.25rem;
+  text-transform: uppercase;
+  padding-left: 5px;
+}
+
+.sign-in-form-input-lable {
+  padding: 1%;
+  flex-shrink: 0;
+  border-radius: 0.25rem;
+  border: 1px solid #fff;
+  display: flex;
+}
+.input-lable-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+  margin-top: 0.6rem;
+}
+.signin-button {
+  width: 18.75rem;
+  height: 2.8125rem;
+  flex-shrink: 0;
+  border: none;
+  border-radius: 0.25rem;
+  background: #fff;
+  color: #2148c0;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.25rem;
+  text-transform: uppercase;
+}
+.sign-in-small-text {
+  color: #fff;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 0.9125rem;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+}
+.logo-pmt {
+  width: 6rem;
+  height: 6rem;
+}
+.create-account-form {
+  padding-left: 20%;
+  padding-top: 15%;
+  padding-right: 20%;
+  padding-bottom: 15%;
+}
